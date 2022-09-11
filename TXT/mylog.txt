@@ -18,3 +18,4 @@
 # ZCZC W01 30 L05 Studying for Quiz
 # ZCZC W01 60 L02 ZOOM meetings related
 # ZCZC W01 5 L05 Quiz related
+# ZCZC W01 30 L11 Assignment #01

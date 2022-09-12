@@ -12,7 +12,7 @@
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.
 <br><br>
-This is the way!
+This is the way!!s
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

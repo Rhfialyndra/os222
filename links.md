@@ -19,7 +19,7 @@ Web full of tutorial and resources regarding Operating System.
 Covers from basic topic, such as Virtualization (VM) and Bash scripting, until advanced topic, such as Linux From Scratch (LFS).
 
 2. [Holy Book of vim](https://danielmiessler.com/study/vim)<br>
-I considered this as the "Holy Book of vim". this really helps you understand the basic of vim or even might come in handy in the future.s
+I considered this as the "Holy Book of vim". this really helps you understand the basic of vim or even might come in handy in the future.
 
 <br>
 <hr>

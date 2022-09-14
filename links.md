@@ -21,6 +21,22 @@ Covers from basic topic, such as Virtualization (VM) and Bash scripting, until a
 2. [Holy Book of vim](https://danielmiessler.com/study/vim)<br>
 I considered this as the "Holy Book of vim". this really helps you understand the basic of vim or even might come in handy in the future.
 
+3. [Bash Scripting Cheatsheet](https://devhints.io/bash)<br>
+Cheatsheet full of param and token expansion. Really useful for advanced purpose.
+
+4. [Linux Command List](https://www.tutorialspoint.com/unix_commands/index.html)<br>
+You can find explanatory of almost every linux command here. useful, to help you remember and understand linux commands easily.
+
+5. [Regex 101](https://regex101.com/)<br>
+Regexp evaluator. ULTIMATELY USEFUL. it comes with comprehensive explanatory for every regexp you could think of.
+It also has several different profile such as php, java, and .NET.
+
+6. [Linux & UNIX StackExchange](https://unix.stackexchange.com/)<br>
+It's similar to stack overflow, but specifically made for Linux and UNIX. you might find solution regarding your problem there.
+
+
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

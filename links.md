@@ -34,7 +34,8 @@ It also has several different profile such as php, java, and .NET.
 6. [Linux & UNIX StackExchange](https://unix.stackexchange.com/)<br>
 It's similar to stack overflow, but specifically made for Linux and UNIX. you might find solution regarding your problem there.
 
-
+7. [C for Dummies Cheatsheet](https://www.dummies.com/article/technology/programming-web-design/c/c-programming-for-dummies-cheat-sheet-207820/)<br>
+Good, simple and , comprehensive C cheatsheet (guide), Especially for newbs in c programming, like me.
 
 
 <br>

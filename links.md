@@ -37,6 +37,19 @@ It's similar to stack overflow, but specifically made for Linux and UNIX. you mi
 7. [C for Dummies Cheatsheet](https://www.dummies.com/article/technology/programming-web-design/c/c-programming-for-dummies-cheat-sheet-207820/)<br>
 Good, simple and , comprehensive C cheatsheet (guide), Especially for newbs in c programming, like me.
 
+8. [Theoritical OS Resource](https://www.javatpoint.com/os-tutorial)<br>
+Ever find understanding the OS textbook or PPT hard? Check this web. Tons of OS material explained well and comprehensible.
+
+9. [Arch Wiki](https://wiki.archlinux.org)<br>
+Many useful things regarding LINUX setup, operation and, behaviour.
+
+10. [Piping for Dummies](https://medium.com/codex/piping-in-linux-unix-a-quick-guide-c1d79d4e90a9)<br>
+How to do Piping in Linux.
+
+11. [How to Bypass Permission](https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use)<br>
+Check this out! you can find "loopholes" on Permission security.
+
+
 
 <br>
 <hr>

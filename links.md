@@ -49,6 +49,18 @@ How to do Piping in Linux.
 11. [How to Bypass Permission](https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use)<br>
 Check this out! you can find "loopholes" on Permission security.
 
+12. [File Permissions and Attributes](https://wiki.archlinux.org/title/File_permissions_and_attributes)<br>
+Helps you understand and remember types of linux file permissions.
+
+13. [(Free) Space Management](https://www.includehelp.com/operating-systems/free-space-management.aspx)<br>
+Ever curious how our system manages (free) space? check this out!
+
+14. [Understanding C-Pointer](https://iq.opengenus.org/pointers-in-c/)<br>
+As a newb, i do sometimes find myself confused while trying to understand pointer in C lang. This page helped me a lot on grasping the c pointer concept!
+
+15. [Page Table Explained](https://www.gatevidyalay.com/page-table-paging-in-operating-system/)<br>
+In-depth explanation of Page Table in memory management. 
+
 
 
 <br>

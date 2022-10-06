@@ -61,7 +61,17 @@ As a newb, i do sometimes find myself confused while trying to understand pointe
 15. [Page Table Explained](https://www.gatevidyalay.com/page-table-paging-in-operating-system/)<br>
 In-depth explanation of Page Table in memory management. 
 
+16. [Memory Management Unit (MMU)](https://linuxhint.com/swap_memory_linux/)<br>
+You'll hear this phrase frequently, especially in system or memory related topics. This link should help you understand what MMU is all about.
 
+17. [What is Swap memory in linux?](https://linuxhint.com/swap_memory_linux/)<br>
+Ever wonder what this is? yeah I've been. try reading this. this should answer why Swap memory (allocation) is important for our system.
+
+18. [Page Replacement and Its Algorithm](https://afteracademy.com/blog/what-are-the-page-replacement-algorithms)<br>
+This page comprehensively explains what page replacement is. It also covers some mainstream page replacement algorithm.
+
+19. [Format String Specifier](https://www.tutorialspoint.com/format-specifiers-in-c)<br>
+Yes, Your Welcome in advance.
 
 <br>
 <hr>

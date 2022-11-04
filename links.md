@@ -73,6 +73,15 @@ This page comprehensively explains what page replacement is. It also covers some
 19. [Format String Specifier](https://www.tutorialspoint.com/format-specifiers-in-c)<br>
 Yes, Your Welcome in advance.
 
+20. [What is Malloc?](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)<br>
+Ever wonder what malloc is all about? Why is it related to heap? try this web.
+
+21. [fork() syscall in c](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Understanding what fork() syscall is in C. **YOU HAVE TO UNDERSTAND THIS**.
+
+22. [Explain Shell](https://explainshell.com/)<br>
+Ever finding imcomprehensible shell code or command? this web will explain them to you!
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

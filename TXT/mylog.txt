@@ -102,3 +102,20 @@ ZCZC W06 60 L70 Studying for other courses.
 ZCZC W06 200 L81 Listening: Radio, Music, etc.
 ZCZC W06 40 L25 C-language including Make
 ZCZC W06 30 L24 Scripting in general.
+ZCZC W07 25 L40 TXT/ related in general.
+ZCZC W07 10 L41 TXT/mylog.txt related.
+ZCZC W07 20 L43 TXT/myrank.txt related
+ZCZC W07 5 L45 TXT/SHA256SUM related
+ZCZC W07 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 110 L05 Quiz related including studying
+ZCZC W07 10 L05 Quiz related
+ZCZC W07 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 40 L17 Assignment #07
+ZCZC W07 100 L02 ZOOM meetings related
+ZCZC W07 100 L99 Face-to-face lecture
+ZCZC W07 30 L64 Helping a friend (OS related problem)
+ZCZC W07 70 L70 Studying for other courses.
+ZCZC W07 200 L81 Listening: Radio, Music, etc.
+ZCZC W07 30 L25 C-language including Make
+ZCZC W07 30 L24 Scripting in general.
+

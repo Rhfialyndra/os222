@@ -82,6 +82,21 @@ Understanding what fork() syscall is in C. **YOU HAVE TO UNDERSTAND THIS**.
 22. [Explain Shell](https://explainshell.com/)<br>
 Ever finding imcomprehensible shell code or command? this web will explain them to you!
 
+23. [Process](https://technobyte.org/processes-in-operating-systems/)<br>
+What even is process? Here's for you to understand, or AT LEAST, to know what we are talking about and referring to when we talk about **process**.
+
+24. [State of Process (concisely by gfg)](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/)<br>
+A brief explanation of state in process for those who like geeks-for-geeks style explanation.
+
+25. [Race condition, Semaphore and Critical Section](https://www.tutorialspoint.com/race-condition-critical-section-and-semaphore)<br>
+Believe me, I didn't even know what these all at first. Understanding Race condition is a must!
+
+26. [Race condition vuln](https://www.geeksforgeeks.org/race-condition-vulnerability/)<br>
+Yeah, Racing condition is also one of many entry points for cyber attack. Here's "how" and "what"
+
+27. [TOCTTOU](https://hackernoon.com/time-of-check-to-time-of-use-toctou-a-race-condition-99c2311bd9fc)<br>
+DUDE, YOU HAVE TO READ THIS!!!
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

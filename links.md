@@ -94,8 +94,14 @@ Believe me, I didn't even know what these all at first. Understanding Race condi
 26. [Race condition vuln](https://www.geeksforgeeks.org/race-condition-vulnerability/)<br>
 Yeah, Racing condition is also one of many entry points for cyber attack. Here's "how" and "what"
 
-27. [TOCTTOU](https://hackernoon.com/time-of-check-to-time-of-use-toctou-a-race-condition-99c2311bd9fc)<br>
-DUDE, YOU HAVE TO READ THIS!!!
+27. [TOCTTOU Exploit](https://hackernoon.com/time-of-check-to-time-of-use-toctou-a-race-condition-99c2311bd9fc)<br>
+
+28. [Daemon, Orphan, and Zombie Process](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)<br>
+types of process in linux (or perhaps all) operating systems. understanding this topic will help you a lot in the future.
+
+29. [What id Deadlock?](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+
+30. [Critial Section in linux process(es)](https://www.tutorialspoint.com/critical-section-problem)<br>
 
 <br>
 <hr>
